@@ -31,7 +31,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 1.25rem;
+    padding: clamp(0.625rem, 2vw, 1.25rem);
     box-sizing: border-box;
 }
 
