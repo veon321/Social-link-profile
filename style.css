@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
-/* --- ZMIENNE CSS (Centralizacja wartości zgodnie z raportem) --- */
 :root {
     --color-green: hsl(75, 94%, 57%);
     --color-white: hsl(0, 0%, 100%);
